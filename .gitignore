@@ -1,3 +1,6 @@
+# Header files
+wifi.h
+
 # Prerequisites
 *.d
 
